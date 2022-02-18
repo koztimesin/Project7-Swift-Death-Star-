@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct Petiton: Codable {
+struct Petition: Codable {
     var title: String
     var body: String
     var signatureCount: Int

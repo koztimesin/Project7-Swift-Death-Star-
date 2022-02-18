@@ -9,5 +9,5 @@
 import Foundation
 
 struct Petitions: Codable {
-    var results: [Petiton]
+    var results: [Petition]
 }
